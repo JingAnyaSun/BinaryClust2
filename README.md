@@ -83,3 +83,8 @@ If you have prepared all the required files mentioned above, then you are ready 
 
 Example dataset used can be downloaded from Zenodo [10.5281/zenodo.7982165](https://doi.org/10.5281/zenodo.7982165).
 
+## Citation
+Please cite our paper if you'd like to use it: 
+
+Sun Jing, Choy Desmond, Sompairac Nicolas, Jamshidi Shirin, Mishto Michele, Kordasti Shahram (2024) ImmCellTyper: an integrated computational pipeline for systematic mining of Mass Cytometry data to assist deep immune profiling eLife 13:RP95494 https://doi.org/10.7554/eLife.95494.2
+
